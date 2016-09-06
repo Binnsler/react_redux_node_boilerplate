@@ -1,0 +1,14 @@
+{
+  "name": "ls",
+  "version": "1.0.0",
+  "description": "Boilerplate for Node using React/Redux",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server/server.js"
+  },
+  "author": "jameibinns",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
